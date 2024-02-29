@@ -3,12 +3,12 @@
 ## Tech Stack
 kwongtn/pre-commit.com is built on the following main stack:
 
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Mako](https://github.com/zzzeek/mako) – Templating Languages & Extensions
 - [Python](https://www.python.org) – Languages
 - [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- [Mako](https://github.com/zzzeek/mako) – Templating Languages & Extensions
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -18,12 +18,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 kwongtn/pre-commit.com is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3583/default_43e3ee00dcc48a40f6fcba33551e4f5a99a10537.png' alt='Mako'/> [Mako](https://github.com/zzzeek/mako) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3583/default_43e3ee00dcc48a40f6fcba33551e4f5a99a10537.png' alt='Mako'/> [Mako](https://github.com/zzzeek/mako) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [kwongtn/pre-commit.com](https://github.com/kwongtn/pre-commit.com)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|01/05/24 <br/>Report generated|
+|9<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
