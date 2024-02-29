@@ -1,0 +1,119 @@
+repo_name: kwongtn/pre-commit.com
+report_id: ca0933273013ba13e66330292486e2e6
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:14:03+00:00'
+requested_by: asottile
+provider: github
+branch: main
+detected_tools_count: 9
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/kwongtn/pre-commit.com
+  detection_source: Repo Metadata
+- name: Mako
+  description: Template library written in Python
+  website_url: https://github.com/zzzeek/mako
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3583/default_43e3ee00dcc48a40f6fcba33551e4f5a99a10537.png
+  detection_source_url: https://github.com/kwongtn/pre-commit.com
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/kwongtn/pre-commit.com
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/kwongtn/pre-commit.com/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Anthony Sottile
+  last_updated_on: 2021-05-11 03:46:56.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kwongtn/pre-commit.com
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/kwongtn/pre-commit.com/blob/main/.github/workflows/deploy.yml
+  detection_source: ".github/workflows/deploy.yml"
+  last_updated_by: Anthony Sottile
+  last_updated_on: 2020-01-30 20:49:26.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/kwongtn/pre-commit.com/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Anthony Sottile
+  last_updated_on: 2017-07-03 19:40:58.000000000 Z
+- name: pre-commit
+  description: A slightly improved pre-commit hook for git
+  website_url: http://jish.github.io/pre-commit/
+  version: 1.21.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/kwongtn/pre-commit.com/blob/main/requirements-dev.txt
+  detection_source: requirements-dev.txt
+  last_updated_by: Anthony Sottile
+  last_updated_on: 2020-01-02 21:55:42.000000000 Z
+- name: sass
+  description: A pure JavaScript implementation of Sass
+  package_url: https://www.npmjs.com/sass
+  version: 1.32.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/kwongtn/pre-commit.com/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Anthony Sottile
+  last_updated_on: 2021-05-15 04:49:51.000000000 Z
